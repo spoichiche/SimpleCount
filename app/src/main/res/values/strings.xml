@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SimpleCount</string>
+    <string name="btnSave">Save</string>
+    <string name="btnDelete">Remove</string>
+    <string name="btnAdd">Add</string>
+    <string name="btnLoad">Load</string>
+    <string name="btnDeleteAll">Delete all</string>
+</resources>
